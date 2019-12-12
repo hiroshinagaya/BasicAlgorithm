@@ -1,1 +1,2 @@
 # BasicAlgorithm
+勉強のために、基本的なアルゴリズムをPythonで実装していく
